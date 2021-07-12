@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29519.87
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AshWorker", "AshWorker\AshWorker.csproj", "{F8917C5E-3E56-4D7F-885D-0CE042900C61}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AshWorker.test", "AshWorker.test\AshWorker.test.csproj", "{8D6235EE-4351-4A10-B66E-DFC9218FE162}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F8917C5E-3E56-4D7F-885D-0CE042900C61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F8917C5E-3E56-4D7F-885D-0CE042900C61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F8917C5E-3E56-4D7F-885D-0CE042900C61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F8917C5E-3E56-4D7F-885D-0CE042900C61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8D6235EE-4351-4A10-B66E-DFC9218FE162}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8D6235EE-4351-4A10-B66E-DFC9218FE162}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8D6235EE-4351-4A10-B66E-DFC9218FE162}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8D6235EE-4351-4A10-B66E-DFC9218FE162}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B6E0D68-917E-4401-9AE0-5DB668FD3BAA}
+	EndGlobalSection
+EndGlobal
